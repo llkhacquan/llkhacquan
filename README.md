@@ -9,6 +9,7 @@
 - linkedin: [here](https://www.linkedin.com/in/llkhacquan/)
 - leetcode: [here](https://leetcode.com/llkhacquan/)
 - github: [here](https://github.com/llkhacquan/)
+- cv: [overleaf](https://www.overleaf.com/read/yfhvcymmggpn)
 
 # soft skills
 
