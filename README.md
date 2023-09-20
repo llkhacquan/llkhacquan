@@ -6,9 +6,11 @@
 	- junior/senior developer of search
 	- backend developer/manager of ad
 	- supporter/advisor of new ad, search, recommendation team now
-- linkedin: [here](https://www.linkedin.com/in/llkhacquan/)
-- leetcode: [here](https://leetcode.com/llkhacquan/)
-- github: [here](https://github.com/llkhacquan/)
+- linkedin: [llkhacquan](https://www.linkedin.com/in/llkhacquan/)
+- leetcode: [llkhacquan](https://leetcode.com/llkhacquan/)
+- github:
+	- [llkhacquan](https://github.com/llkhacquan/)
+	- [quan-nguyen2](https://github.com/quan-nguyen2/)
 - cv: [overleaf](https://www.overleaf.com/read/dyprsmhshsbj)
 
 # soft skills
